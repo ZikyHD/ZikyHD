@@ -1,4 +1,11 @@
-### Hi there 👋
+### ZikyHD
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ZikyHD&count_private=true&show_icons=true&theme=dark" width="380"/>
+
+[![Twitter: ZikyHD](https://img.shields.io/twitter/follow/ZikyHD?style=flat-square)](https://twitter.com/ZikyHD)
+[![GitHub: ZikyHD](https://img.shields.io/github/followers/ZikyHD?label=follow%20on%20Github&style=flat-square)](https://github.com/ZikyHD)
+
+<br>
 
 <!--
 **ZikyHD/ZikyHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
